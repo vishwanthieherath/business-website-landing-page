@@ -1,2 +1,2 @@
 # Business Website
-### Business website frontend using React and TailwindCSS
+### Business website frontend UI using React and TailwindCSS
